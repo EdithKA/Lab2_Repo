@@ -1,5 +1,5 @@
 #Lectura de datos
-print("Bienvenido a piedra, papel, tijera, lagarto o spock")
+abs
 jugador1=input("Jugador 1 introduce tu jugada: ")
 jugador2=input("Jugador 2 introduce tu jugada: ")
 
